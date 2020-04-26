@@ -1,18 +1,18 @@
 export const products = [
   {
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: '20 lt Bottle White Cap',
+    price: 0.60,
+    description: 'Compatible with 20 lt Water bottle'
   },
   {
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: '20 lt Bottle Blue Cap',
+    price: 0.60,
+    description: 'Compatible with 20 lt Water bottle'
   },
   {
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    name: '20 lt Bottle Red Cap',
+    price: 0.60,
+    description: 'Compatible with 20 lt Water bottle'
   }
 ];
 
